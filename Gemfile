@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'better_errors', '~> 2.7', '>= 2.7.1'
 gem 'bulma-rails', '~> 0.9.0'
-
+gem 'simple_form'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
